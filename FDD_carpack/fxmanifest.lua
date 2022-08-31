@@ -503,12 +503,7 @@ data_file 'VEHICLE_METADATA_FILE' 'data/Ford/19Raptor/vehicles.meta'
 data_file 'CARCOLS_FILE' 'data/Ford/19Raptor/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/Ford/19Raptor/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE' 'data/Ford/19Raptor/vehiclelayouts.meta'
---rmodmustang--
-data_file 'HANDLING_FILE' 'data/Ford/rmodmustang/handling.meta'
-data_file 'VEHICLE_METADATA_FILE' 'data/Ford/rmodmustang/vehicles.meta'
-data_file 'CARCOLS_FILE' 'data/Ford/rmodmustang/carcols.meta'
-data_file 'VEHICLE_VARIATION_FILE' 'data/Ford/rmodmustang/carvariations.meta'
-data_file 'VEHICLE_LAYOUTS_FILE' 'data/Ford/rmodmustang/vehiclelayouts.meta'
+
 
 ----------GMC----------
 --sdgmc--
