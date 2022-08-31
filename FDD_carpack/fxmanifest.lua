@@ -68,9 +68,6 @@ files {
 'data/Ford/mache/*.meta',
 --19Raptor--
 'data/Ford/19Raptor/*.meta',
---rmodmustang--
-'data/Ford/rmodmustang/*.meta',
-
 ----------GMC----------
 --sdgmc--
 'data/GMC/sdgmc/*.meta',
@@ -316,9 +313,6 @@ files {
 'v_sound/aq2jzgterace/audioconfig/*.dat151.rel',
 'v_sound/aq2jzgterace/audioconfig/*.dat54.rel',
 'v_sound/aq2jzgterace/sfx/**/*.awc',
-'v_sound/tamustanggt50/audioconfig/*.dat151.rel',
-'v_sound/tamustanggt50/audioconfig/*.dat54.rel',
-'v_sound/tamustanggt50/sfx/**/*.awc',
 'v_sound/chevroletlt4/audioconfig/chevroletlt4_game.dat151.rel',
 'v_sound/chevroletlt4/audioconfig/chevroletlt4_sounds.dat54.rel',
 'v_sound/chevroletlt4/sfx/dlc_chevroletlt4/chevroletlt4.awc',
