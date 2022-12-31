@@ -40,8 +40,6 @@ files {
 'data/BMW/m2f22/*.meta',
 --mansm8--
 'data/BMW/mansm8/*.meta',
---rmodm4gts--
-'data/BMW/rmodm4gts/*.meta',
 --bmwm4--
 'data/BMW/bmwm4/*.meta',
 --m3g80c--
@@ -429,12 +427,6 @@ data_file 'VEHICLE_METADATA_FILE' 'data/BMW/mansm8/vehicles.meta'
 data_file 'CARCOLS_FILE' 'data/BMW/mansm8/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/BMW/mansm8/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE' 'data/BMW/mansm8/vehiclelayouts.meta'
---rmodm4gts--
-data_file 'HANDLING_FILE' 'data/BMW/rmodm4gts/handling.meta'
-data_file 'VEHICLE_METADATA_FILE' 'data/BMW/rmodm4gts/vehicles.meta'
-data_file 'CARCOLS_FILE' 'data/BMW/rmodm4gts/carcols.meta'
-data_file 'VEHICLE_VARIATION_FILE' 'data/BMW/rmodm4gts/carvariations.meta'
-data_file 'VEHICLE_LAYOUTS_FILE' 'data/BMW/rmodm4gts/vehiclelayouts.meta'
 --bmwm4--
 data_file 'HANDLING_FILE' 'data/BMW/bmwm4/handling.meta'
 data_file 'VEHICLE_METADATA_FILE' 'data/BMW/bmwm4/vehicles.meta'
